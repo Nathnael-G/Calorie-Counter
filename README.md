@@ -6,4 +6,4 @@ The designs for the project before and after it works are as shown respectively 
 
 ![image](https://github.com/Nathnael-G/Calorie-Counter/assets/120024349/09d7f896-7464-4a58-a495-f09800d9b3cc)
 
-
+![image](https://github.com/Nathnael-G/Calorie-Counter/assets/120024349/3a299ca4-87e7-4332-b6f3-b93a5f0dd9c8)
